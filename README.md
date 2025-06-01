@@ -8,7 +8,7 @@
 📂 Currently building: IntelliVibe – An Emotion-Aware AI Interview Mentor  
 🔐 Exploring: Red Teaming, Bug Bounties, TryHackMe & HTB Labs  
 🌱 Learning: TensorFlow, PyTorch, Flask, Git, Linux  
-📬 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your@email.com)
+📬 Reach me: [LinkedIn](https://www.linkedin.com/in/mohd-farhan-1b17b4298) | [Email](ixmartfarhan@gmail.com)
 
 ---
 
