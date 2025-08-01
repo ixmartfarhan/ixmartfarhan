@@ -15,7 +15,7 @@
 ### 🚀 Projects
 
 - 🧠 [IntelliVibe](#) – AI Interview Mentor (Real-time Emotion Detection using Audio + Video)
-- 🍦 [Ice Cream Management System](#) – File-handling based C project
+- 🍦 [Ice Cream Management System](https://github.com/ixmartfarhan/Ice-Cream-Management.git) – File-handling based C project
 - 🔐 [Ethical Hacking Labs](#) – Notes & practice on THM, HTB (Coming Soon)
 - 🤖 [Emotion Detector using TensorFlow](#) – Face-based Emotion AI
 - 🎙️ [Audio Emotion Detector using HuggingFace](#) – Using Wav2Vec2
